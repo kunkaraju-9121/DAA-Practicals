@@ -1,0 +1,5 @@
+Bubble Sort: 3 11 12 22 25 34 45 64 78 90
+Selection Sort: 3 11 12 22 25 34 45 64 78 90
+Insertion Sort: 3 11 12 22 25 34 45 64 78 90
+Merge Sort: 3 11 12 22 25 34 45 64 78 90
+Quick Sort: 3 11 12 22 25 34 45 64 78 90
